@@ -24,7 +24,7 @@
 <br />
 <br />
 
-<summary>:zap: Stack-Overflow Stats</summary>
+<summary>:zap: Stack Overflow Stats</summary>
 
 <br />
 
