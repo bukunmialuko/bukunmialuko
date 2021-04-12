@@ -41,7 +41,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bukunmialuko&layout=compact)](https://github.com/bukunmialuko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bukunmialuko&layout=compact)](https://github.com/bukunmialuko/github-readme-stats&langs_count=8)
 
 
 [website]: https://codeSTACKr.com
