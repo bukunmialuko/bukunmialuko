@@ -43,13 +43,13 @@
 
 ---
 
-<details>
+<p>
   <summary>:zap: GitHub Stats</summary>
 
 
   <img align="left" alt="Bukunmi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bukunmialuko&show_icons=true&hide_border=true&count_private=true" />
 
-</details>
+</p>
 
 <p align='left'>
 <a href="https://stackoverflow.com/users/8095270/bukunmi"><img src="https://stackoverflow.com/users/flair/8095270.png" width="208" height="58" alt="profile for Bukunmi at Stack Overflow, Q&amp;A for professional software engineer" title="profile for Bukunmi at Stack Overflow, Q&amp;A for professionalsoftware engineers"></a>&nbsp;&nbsp;
