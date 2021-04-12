@@ -30,24 +30,13 @@
 <br />
 <br />
 
+<summary>:zap: Stats</summary>
 
 <a href="https://github.com/bukunmialuko/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bukunmialuko&show_icons=true&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/bukunmialuko/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bukunmialuko&layout=compact&langs_count=8" />
-</a>
-
-
-<a>
-  <summary>:zap: Stats</summary>
-  <img align="center" alt="Bukunmi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bukunmialuko&show_icons=true&hide_border=true&count_private=true" />
-</a>
-
-<a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bukunmialuko&layout=compact&langs_count=8)](https://github.com/bukunmialuko/github-readme-stats)
-
 </a>
 
 <p align='left'>
