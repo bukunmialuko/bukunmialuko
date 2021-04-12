@@ -8,17 +8,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love table tennis & Mortal Kombat
 
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -39,19 +28,19 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
+<br />
 
 <p>
-  <summary>:zap: GitHub Stats</summary>
-
-
+  <summary>:zap: Stats</summary>
   <img align="left" alt="Bukunmi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bukunmialuko&show_icons=true&hide_border=true&count_private=true" />
-
 </p>
 
 <p align='left'>
 <a href="https://stackoverflow.com/users/8095270/bukunmi"><img src="https://stackoverflow.com/users/flair/8095270.png" width="208" height="58" alt="profile for Bukunmi at Stack Overflow, Q&amp;A for professional software engineer" title="profile for Bukunmi at Stack Overflow, Q&amp;A for professionalsoftware engineers"></a>&nbsp;&nbsp;
 </p>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://codeSTACKr.com
