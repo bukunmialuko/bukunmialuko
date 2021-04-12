@@ -31,7 +31,7 @@
 <br />
 
 <p>
-  <summary>:zap: Stats</summary>
+  <summary>:zap: Github Stats</summary>
   <img align="left" alt="Bukunmi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bukunmialuko&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
@@ -39,9 +39,10 @@
 <a href="https://stackoverflow.com/users/8095270/bukunmi"><img src="https://stackoverflow.com/users/flair/8095270.png" width="208" height="58" alt="profile for Bukunmi at Stack Overflow, Q&amp;A for professional software engineer" title="profile for Bukunmi at Stack Overflow, Q&amp;A for professionalsoftware engineers"></a>&nbsp;&nbsp;
 </p>
 
+<br />
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bukunmialuko&layout=compact)](https://github.com/bukunmialuko/github-readme-stats&langs_count=8)
+<summary>:zap: Language Stats</summary>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bukunmialuko&layout=compact&langs_count=8)](https://github.com/bukunmialuko/github-readme-stats)
 
 
 [website]: https://codeSTACKr.com
