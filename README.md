@@ -22,12 +22,12 @@
 </a>
 
 <br />
+<br />
 
 <summary>:zap: Stack overflow Stats</summary>
 
 <br />
 
-<p align='left'>
+<p align='center'>
 <a href="https://stackoverflow.com/users/8095270/bukunmi"><img src="https://stackoverflow.com/users/flair/8095270.png" width="208" height="58" alt="profile for Bukunmi at Stack Overflow, Q&amp;A for professional software engineer" title="profile for Bukunmi at Stack Overflow, Q&amp;A for professionalsoftware engineers"></a>&nbsp;&nbsp;
 </p>
-
