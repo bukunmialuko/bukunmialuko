@@ -1,12 +1,12 @@
-### Hi there, I'm Bukunmi Aluko 👋
+### Hi there,👋
 
-## I'm a software engineer.
+## I'm a software engineer, focusing on Spring-boot, Angular & Flutter.
 
 - 🔭 I’m currently workning on company projects
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on interesting Open source projects
+- 👯 I’m looking forward to collaborate on interesting Open source projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love table tennis and Mortal Kombat
+- ⚡ Fun fact: I love table tennis & Mortal Kombat
 
 
 ### Connect with me:
