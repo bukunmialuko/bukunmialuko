@@ -5,7 +5,7 @@
 - 🔭 I’m currently workning on company projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking forward to collaborate on interesting Open source projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love table tennis & Mortal Kombat
 
 <br />
