@@ -1,6 +1,6 @@
 ### Hi there,👋
 
-## I'm a software engineer, focusing on Spring-boot, Angular & Flutter.
+## My name is Bukunmi Aluko and I'm a software engineer.
 
 - 🔭 I’m currently workning on company projects
 - 🌱 I’m currently learning everything 🤣
