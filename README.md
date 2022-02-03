@@ -33,5 +33,5 @@
 </p>
 
 
-📫 How to reach me: flowerethan@aol.com <br>
+📫 How to reach me: +2347033761964 <br>
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bukunmi-aluko/)
