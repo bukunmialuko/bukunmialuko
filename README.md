@@ -31,3 +31,7 @@
 <p align='left'>
 <a href="https://stackoverflow.com/users/8095270/bukunmi"><img src="https://stackoverflow.com/users/flair/8095270.png" width="208" height="58" alt="profile for Bukunmi at Stack Overflow, Q&amp;A for professional software engineer" title="profile for Bukunmi at Stack Overflow, Q&amp;A for professionalsoftware engineers"></a>&nbsp;&nbsp;
 </p>
+
+
+📫 How to reach me: flowerethan@aol.com <br>
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bukunmi-aluko/)
