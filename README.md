@@ -2,7 +2,7 @@
 
 ## My name is Bukunmi Aluko and I'm a software engineer.
 
-- 🔭 I’m currently workning on company projects
+- 🔭 I’m currently working on company projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking forward to collaborate on interesting Open source projects
 - 🥅 2022 Goals: Contribute more to Open Source projects
