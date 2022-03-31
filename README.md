@@ -1,6 +1,6 @@
 ### Hi there,👋
 
-## My name is Bukunmi Aluko and I'm a software engineer.
+## My name is Bukunmi Aluko and I'm a Software Engineer.
 
 - 🔭 I’m currently working on company projects
 - 🌱 I’m currently learning everything 🤣
