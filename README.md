@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Bukunmi, I am a Product Enginer.
+My name is Bukunmi, I build Software & AI solutions.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bukunmialuko" alt="bukunmialuko" /></a> </p>
 
